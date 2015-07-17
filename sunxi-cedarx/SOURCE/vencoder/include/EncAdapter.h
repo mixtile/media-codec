@@ -25,7 +25,6 @@ extern "C" {
 
 #include "ve.h"
 #include "memoryAdapter.h"
-#include "config.h"
 
 int   EncAdapterInitialize(void);
 

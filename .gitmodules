@@ -1,3 +1,6 @@
 [submodule "sunxi-cedarx/LIBRARY/EXTERNAL"]
 	path = sunxi-cedarx/LIBRARY/EXTERNAL
 	url = https://github.com/allwinner-zh/media-codec-lib.git
+[submodule "media-codec-lib"]
+	path = media-codec-lib
+	url = ./media-codec-lib
