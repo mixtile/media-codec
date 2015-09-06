@@ -20,7 +20,7 @@ Import('env')
 
 install_path = '#out/lib32'
 env["LIBPATH"] = [
-  "#out/lib",
+  "#out/lib32",
 ]
 
 # cedar base libraries

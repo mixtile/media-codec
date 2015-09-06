@@ -19,7 +19,7 @@ import os
 platform = ARGUMENTS.get('platform','arm')  
 
 
-EXE_PATH = '../buildroot/output/host/usr/bin'
+EXE_PATH = '/home/kurain/build/gcc-linaro/bin'
 PREFIX = EXE_PATH+ '/arm-linux-gnueabihf-'
 
 env = Environment()
